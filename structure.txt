@@ -1,0 +1,9 @@
+library-management/
+├── src/
+│   ├── Main.java
+│   ├── Book.java
+│   ├── Library.java
+│   └── FileManager.java
+├── data/
+│   └── books.csv
+└── README.md
